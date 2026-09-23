@@ -40,10 +40,63 @@ la comunnity es gratuita y de código abierto, además sin soporte, mientras la 
 
 ## 3. Fichas técnicas
 
-[Aquí irán las 4 fichas del Reto 2. No las rellenes todavía.]
+### 3.1 Odoo comunity
 
----
+| Campo | Dato |
+|---|---|
+| Licencia exacta | LGPLv3 |
+| Versión vigente |  19.0 |
+| Lenguaje del servidor | python   |
+| SGBD compatibles | PostgreSQL |
+| Modalidad | instalacion local y nube |
+| Módulos principales | ventas , compras , inventario ... |
+| Requisitos | python, postgreSQL, navegador moderno |
+| Fuente oficial | https://www.odoo.com/documentation/19.0/  |
+| Fecha de consulta | 23/9/2026 |
 
+
+### 3.2 Microsoft Dynamics 365
+
+| Campo | Dato |
+|---|---|
+| Licencia exacta | propietaria|
+| Versión vigente | 2026 |
+| Lenguaje del servidor | ?? |
+| SGBD compatibles | ?? |
+| Modalidad | Nube |
+| Módulos principales | Customer service, field service, finance , supply chain management .... |
+| Requisitos | navegador moderno |
+| Fuente oficial | https://learn.microsoft.com/es-es/dynamics365/|
+| Fecha de consulta | 9/23/2026 |
+
+
+### 3.3 SuiteCRM
+| Campo | Dato |
+|---|---|
+| Licencia exacta | AGPLv3 |
+| Versión vigente | 7.15.2 |
+| Lenguaje del servidor | PHP |
+| SGBD compatibles | mariaDB |
+| Modalidad | LAMP( linux, mysql, php ) |
+| Módulos principales | clientes potenciales, contactos casos, campañas ... |
+| Requisitos | PHP 8.1, apache 2.4, mariaDB 10.6+ o mysql 8.0+ |
+| Fuente oficial | https://docs.suitecrm.com/es/admin/compatibility-matrix/ |
+| Fecha de consulta | [9/23/26 |
+
+
+### 3.4 Salesforce
+
+| Campo | Dato |
+|---|---|
+| Licencia exacta | Propietaria |
+| Versión vigente | Spring 26 |
+| Lenguaje del servidor | ?? |
+| SGBD compatibles | ?? |
+| Modalidad | nube |
+| Módulos principales | ventas, atención al cliente, marketing en la nube ... |
+| Requisitos | navegador moderno, conexión estable y javascript activado |
+| Fuente oficial | https://www.salesforce.com/sales/pricing/ |
+| Fecha de consulta | 9/23/26 |
 ## 4. Fe de erratas del tema 2
 
 [Aquí irá el Reto 3. No lo rellenes todavía.]
