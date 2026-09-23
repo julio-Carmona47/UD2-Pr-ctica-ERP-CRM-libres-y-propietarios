@@ -99,10 +99,47 @@ la comunnity es gratuita y de código abierto, además sin soporte, mientras la 
 | Fecha de consulta | 9/23/26 |
 ## 4. Fe de erratas del tema 2
 
-[Aquí irá el Reto 3. No lo rellenes todavía.]
+### Errata 1: [título corto de la errata]
+
+**Qué dice el tema:** [cita textual o resumen de lo que dice el PDF]
+
+**Qué es correcto hoy:** [la versión corregida, con tus palabras]
+
+**Fuente:** [URL oficial donde se ve que el tema está equivocado o desactualizado]
+
+
+### Errata 2: [título corto de la errata]
+
+**Qué dice el tema:** [cita textual o resumen de lo que dice el PDF]
+
+**Qué es correcto hoy:** [la versión corregida, con tus palabras]
+
+**Fuente:** [URL oficial donde se ve que el tema está equivocado o desactualizado]
 
 ---
 
 ## 5. Matriz de decisión y recomendación
 
-[Aquí irá el Reto 4. No lo rellenes todavía.]
+
+### 5.4 Justificación de cada puntuación
+
+1 -En precio, esta claro dolibbar es gratis en su totalidad mientras que comunity tambien es gratis pero le capan muchas
+cosas.
+2-Facilidad de uso, dolibar es clásico y comunity moderno, pero enterprise tiene mucho soporte de ayudas, lo que le da una
+ventaja para gente inexperta. 
+3-dolibar gana por goleada, sus requisitos son practicamente inexistentes mientras que odoo necesita conexion estable.
+4- dolibar no lo tiene nativo y odoo si.
+5- ninguno lo tiene, pero odoo tiene (ES obrador panadería) pero es de pago.
+6- enterprise tiene verifactu completo mientras que comunity y dolibar están muy limitados.
+
+### 5.5 Recomendación final
+
+La cosa esta mas o menos reñida entre comunity y dolibarr, pero prefiero dolibar, ya que aunque carezca de algunas cosas, 
+la version es gratuita al completo, por lo que si en algun futuro decidieran implementar mas cosas, tambien serian gratuitas
+, además de que ha ganado la tabla
+
+### 5.6 Riesgos de la opción recomendada
+
+No tiene coste en si, pero si tiempo de trabajadores en instalarlo, configurarlo y mantenerlo, sin hablar de formar a los 
+trabajadores, además, no hay soporte.
+No hay proveedor, al ser un proyecto comunitario, nadie te garantiza que se actualicen errores que haya.
