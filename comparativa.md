@@ -99,24 +99,25 @@ la comunnity es gratuita y de código abierto, además sin soporte, mientras la 
 | Fecha de consulta | 9/23/26 |
 ## 4. Fe de erratas del tema 2
 
-### Errata 1: [título corto de la errata]
+### Errata 1: Versión Odoo
 
-**Qué dice el tema:** [cita textual o resumen de lo que dice el PDF]
+**Qué dice el tema:** El tema dice que la versión actual es la 14
 
-**Qué es correcto hoy:** [la versión corregida, con tus palabras]
+**Qué es correcto hoy:** La version actual es la 19
 
-**Fuente:** [URL oficial donde se ve que el tema está equivocado o desactualizado]
+**Fuente:** https://www.odoo.com/documentation/19.0/
 
 
-### Errata 2: [título corto de la errata]
+### Errata 2: versión suite CRM 
 
-**Qué dice el tema:** [cita textual o resumen de lo que dice el PDF]
+**Qué dice el tema:** Dice que su versión mas reciente es la 7.14.5
 
-**Qué es correcto hoy:** [la versión corregida, con tus palabras]
+**Qué es correcto hoy:** La version estable mas nueva es la 7.15 y existe la 8.0 pero 
+no es estable todavía 
 
-**Fuente:** [URL oficial donde se ve que el tema está equivocado o desactualizado]
+**Fuente:** https://frappe.io/
 
----
+
 
 ## 5. Matriz de decisión y recomendación
 
